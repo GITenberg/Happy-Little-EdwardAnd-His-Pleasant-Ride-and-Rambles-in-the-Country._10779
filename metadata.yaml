@@ -1,0 +1,30 @@
+_repo: Happy-Little-EdwardAnd-His-Pleasant-Ride-and-Rambles-in-the-Country._10779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Massachusetts -- Juvenile fiction'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+title: 'Happy Little Edward
+
+  And His Pleasant Ride and Rambles in the Country.'
+url: http://www.gutenberg.org/ebooks/10779
